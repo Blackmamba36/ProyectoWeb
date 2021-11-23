@@ -166,6 +166,10 @@ footer{
     text-align: center;
 }
 
+.miTabla td,
+th {
+    border: 1px solid black;
+}
 
 
 
